@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19-may-2015, 11:44:27
+    Author     : SistemasUpeu
+*/
+
+    body{               
+    background:url("../img/fondo.jpg") repeat-x;            
+    padding: 2px;
+    border-spacing: 4px;
+    font-family: Verdana, Geneva, sans-serif;            
+    text-align: center;
+    }
+    
+    .bodyX{               
+    background:url("../img/fondo2.jpg") repeat-x;            
+    background-size: 100%;
+    padding: 2px;
+    border-spacing: 4px;
+    font-family: Verdana, Geneva, sans-serif;            
+    text-align: center;
+    }    
+
+    p{
+    font-family: Verdana, Geneva, sans-serif;
+    color: blue;
+    font-weight: bold;
+    font-size: xx-large;
+    }
+
+    #divFAdd {
+    /*     background:url("../img/fondo.jpg") repeat-x; */
+    padding: 2px;        
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: center;
+    }
+    #nombre{
+
+        background:url("../img/modificar.png") no-repeat;
+        background-color: aqua;
+        padding-left: 2em;
+        color: red;
+    }
+
+
+    .txtRegular { 
+    background: url(../img/text.png) no-repeat;
+    padding-left: 25px;
+    background-color: white;
+    }
